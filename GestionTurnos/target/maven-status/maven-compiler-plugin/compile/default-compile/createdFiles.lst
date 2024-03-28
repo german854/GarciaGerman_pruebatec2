@@ -1,0 +1,6 @@
+german\test2\gestionturnos\servlets\CiudadanosSV.class
+german\test2\gestionturnos\logica\Ciudadano.class
+german\test2\gestionturnos\logica\Turno.class
+german\test2\gestionturnos\servlets\ManejoTurnosSV.class
+german\test2\gestionturnos\JAXRSConfiguration.class
+german\test2\gestionturnos\resources\JavaEE8Resource.class
